@@ -1,8 +1,10 @@
 package com.interviewsystem.models;
 
+import javax.validation.constraints.Size;
+
 public class Interviewer {
 
-	private int iid;
+	private int iid;	
 	private String name;
 	private String priority;
 
