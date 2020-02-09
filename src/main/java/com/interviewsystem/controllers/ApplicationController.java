@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.interviewsystem.dao.InterviewerDaoService;
 import com.interviewsystem.models.Interviewer;
 
+/** main controller */
 @RestController
 public class ApplicationController {
 
